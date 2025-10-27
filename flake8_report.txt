@@ -1,0 +1,20 @@
+inventory_system.py:2:1: F401 'ast' imported but unused
+inventory_system.py:5:1: E302 expected 2 blank lines, found 1
+inventory_system.py:6:80: E501 line too long (81 > 79 characters)
+inventory_system.py:17:1: W293 blank line contains whitespace
+inventory_system.py:20:1: W293 blank line contains whitespace
+inventory_system.py:24:1: W293 blank line contains whitespace
+inventory_system.py:26:1: W293 blank line contains whitespace
+inventory_system.py:42:41: E261 at least two spaces before inline comment
+inventory_system.py:42:80: E501 line too long (83 > 79 characters)
+inventory_system.py:78:1: E302 expected 2 blank lines, found 1
+inventory_system.py:81:1: W293 blank line contains whitespace
+inventory_system.py:85:35: W291 trailing whitespace
+inventory_system.py:86:1: W293 blank line contains whitespace
+inventory_system.py:88:39: E261 at least two spaces before inline comment
+inventory_system.py:89:1: W293 blank line contains whitespace
+inventory_system.py:92:1: W293 blank line contains whitespace
+inventory_system.py:96:1: W293 blank line contains whitespace
+inventory_system.py:98:61: W291 trailing whitespace
+inventory_system.py:100:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory_system.py:101:11: W292 no newline at end of file
